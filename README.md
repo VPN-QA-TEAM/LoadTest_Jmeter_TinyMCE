@@ -11,8 +11,8 @@ This is a load testing the TinyMCE Editor in Portal Sekolah Web using Jmeter Too
 **Jmeter**: Make sure apache jmeter version 5.6.3 is installed on your system.</br>
 
 ### How to run the load test
-1. Clone the repository
-   git clone https://github.com/VPN-QA-TEAM/LoadTest_Jmeter_TinyMCE.git
+1. Clone the repository </br>
+   ```git clone https://github.com/VPN-QA-TEAM/LoadTest_Jmeter_TinyMCE.git```
    
 2. Open Terminal, run this command below :  
    - ```cd path_to\apache-jmeter-5.6.3\bin```
