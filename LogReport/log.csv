@@ -1,4 +1,4 @@
-timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+timeStamps,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
 1718939023895,973,backend.portalsiswa.id/api/auth/login/,200,OK,Thread Group 1-1,text,true,,2090,523,2,2,https://backend.portalsiswa.id/api/auth/login/,972,0,594
 1718939024564,436,backend.portalsiswa.id/api/auth/login/,200,OK,Thread Group 1-2,text,true,,2090,523,2,2,https://backend.portalsiswa.id/api/auth/login/,436,0,72
 1718939025009,175,manage.portalsiswa.id/assessment-creation,200,OK,Thread Group 1-2,text,true,,6206,143,2,2,https://manage.portalsiswa.id/assessment-creation,175,0,53
