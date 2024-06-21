@@ -25,6 +25,8 @@ This is a load testing the TinyMCE Editor in Portal Sekolah Web using Jmeter Too
      -e : command to generate an HTML report after the test has finished running.</br></br>
      -o : D:\HTMLReport : Specifies the output directory for HTML reports. However, this command is incomplete because after -o it must be followed by the output directory path.</br>_
 
+3. Open report index.html in the HTMLReport directory
+   
 ## Snapshot of Report
 ![image](https://github.com/VPN-QA-TEAM/LoadTest_Jmeter_TinyMCE/assets/146044337/2eec33bd-b48d-4c3a-82e2-354435b8030e)
 
