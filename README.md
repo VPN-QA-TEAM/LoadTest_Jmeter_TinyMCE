@@ -21,7 +21,7 @@ This is a load testing the TinyMCE Editor in Portal Sekolah Web using Jmeter Too
    **_Command Explanation :_**</br>
      _-n : Run JMeter in non-GUI mode (no graphical interface).</br></br>
      -t : D:\PortalSekolah_TinyMCE.jmx : Specifies the JMeter test file to run (in this example, PortalSekolah_TinyMCE.jmx).</br></br>
-     -l : D:\LogReport\log.csv : Specifies the log file where the test results will be saved (in this example, D:\report.csv).</br></br>
+     -l : D:\LogReport\log.csv : Specifies the log file where the test results will be saved (in this example, D:\LogReport\log.csv).</br></br>
      -e : command to generate an HTML report after the test has finished running.</br></br>
      -o : D:\HTMLReport : Specifies the output directory for HTML reports. However, this command is incomplete because after -o it must be followed by the output directory path.</br>_
 
