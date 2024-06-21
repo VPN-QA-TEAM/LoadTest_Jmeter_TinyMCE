@@ -1,0 +1,50 @@
+{
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 2000,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 247.09149999999988,
+    "medianResTime" : 359.0,
+    "minResTime" : 26.0,
+    "maxResTime" : 4021.0,
+    "pct1ResTime" : 382.0,
+    "pct2ResTime" : 403.9499999999998,
+    "pct3ResTime" : 1380.98,
+    "throughput" : 2.0022224669383015,
+    "receivedKBytesPerSec" : 8.110617042729931,
+    "sentKBytesPerSec" : 0.6511133608305218
+  },
+  "backend.portalsiswa.id/api/auth/login/" : {
+    "transaction" : "backend.portalsiswa.id/api/auth/login/",
+    "sampleCount" : 1000,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 404.84100000000035,
+    "medianResTime" : 368.0,
+    "minResTime" : 353.0,
+    "maxResTime" : 3397.0,
+    "pct1ResTime" : 392.0,
+    "pct2ResTime" : 449.29999999999905,
+    "pct3ResTime" : 1387.99,
+    "throughput" : 1.0011653564749368,
+    "receivedKBytesPerSec" : 2.043394135774041,
+    "sentKBytesPerSec" : 0.5113373842152266
+  },
+  "manage.portalsiswa.id/assessment-creation" : {
+    "transaction" : "manage.portalsiswa.id/assessment-creation",
+    "sampleCount" : 1000,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 89.34200000000004,
+    "medianResTime" : 41.0,
+    "minResTime" : 26.0,
+    "maxResTime" : 4021.0,
+    "pct1ResTime" : 94.69999999999993,
+    "pct2ResTime" : 296.89999999999986,
+    "pct3ResTime" : 1061.93,
+    "throughput" : 1.0020983940371138,
+    "receivedKBytesPerSec" : 6.073316156844934,
+    "sentKBytesPerSec" : 0.13994147494854225
+  }
+}
