@@ -4,7 +4,7 @@
 This is a load testing the TinyMCE Editor in Portal Sekolah Web using Jmeter Tools
 
 ## Tools and Technologies
-**JMETER**: The programming language used for writing the test scripts.
+**JMETER**: The Apache JMeter™ application is open source software, a 100% pure Java application designed to load test functional behavior and measure performance. It was originally designed for testing Web Applications but has since expanded to other test functions.
 
 ### Prerequisites </br>
 **Java 11**: Make sure Java 11(minimum version) is installed on your system.</br>
